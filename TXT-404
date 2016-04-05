@@ -1,0 +1,28 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/tr/html4/strick.dtd">
+<html hola_ext_inject="disabled">
+  <meta name="robots" content="noindex" />
+  <head>
+    <title> 404 Not Found | Iconopower - Providing Power Electronic Components and Solutions</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=Windows-1252">
+  </head>
+  
+  <body id=body>
+    <table>
+      <tbody>
+        <tr>
+          <td id="text" valign="top"><h4 id="left"> Page Not Found</h4>
+
+            <hr>
+            <br/>We couldn't find what you're looking for. The page you requested may have been moved, renamed or is temporarily unavailable. 
+            <br/><br/>
+            <h4 id="left">Please feel free to <a href="mailto:Config_EmailAddress_From?subject=Contact%20Us" id="link_notbold">contact us</a> for further information.</h4><ul><li>Simply let us know the page you attempted to access and we will be happy to assist you!</li></ul>
+          </td>
+<td>
+<img src="https://www.iconopower.com/v/broken.jpg" style="width:230px"  onclick="history.back(-1)" />
+</td>
+        </tr>
+<tr><td id="right"><img src="https://www.iconopower.com/v/images/buttons/back2.png" style="cursor: pointer;" onclick="history.back(-1)" /></td></tr>
+      </tbody>
+    </table>
+  </body>
+</html>
