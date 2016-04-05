@@ -14,7 +14,6 @@ Updating theme files:
 5. Within "Filename" window: select (double click) appropriate folder for files (use same folder structure as repository)
 6. Click & drag files from computer to FTP client "Queued files"
 7. Ctrl+P to process files.
-8. If popup requests permission to overwritte file with same name select "Action: Overwrite", then "OK"
-    a. if updating multiple files select check box "always use this action" before clicking "OK"
+8. If popup requests permission to overwritte file with same name select "Action: Overwrite", then "OK" (if updating multiple files select check box "always use this action" before clicking "OK")
 9. Open internet browser and clear history/cache
 10. Load website to see updated files.
