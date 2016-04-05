@@ -1,0 +1,1 @@
+function updateHeaderCartSummary(){var c;var b;var a;c=document.getElementById("view_cart_text_right");if(c==null){return}b=getShoppingCartItems();total=getShoppingCartTotal();if(isShoppingCartEmpty()){a="0 Items: $0.00"}else{if(b==null||total==null){return}else{if(b==0){a="0 Items: $0.00"}else{a=b+" Item";if(b>1){a=a+"s"}a=a+": "+total}}}c.innerHTML=a};
