@@ -11,8 +11,4 @@ Applying template:
    c. JS-google-verify  -> /v/googlee2c1eca2b57aa9e6.html
    d. JS alexa-verify   -> /v/8TYgG16QTW2pnPAEH8l1FgBfOI
    e.
-   f.
-   g.
-   h.
-   i.
-   j.
+
