@@ -1,3 +1,85 @@
+.shop-sliderbtn {
+width:109px;
+max-width:109px}
+
+
+body{
+font-family: Helvetica; 
+  font-weight: 300;
+}
+.css-slideshow {
+  position: relative;
+  max-width: 827px;
+  height: 339px;
+  margin: 0;
+}
+.css-slideshow-a{
+  margin: 0;
+  max-width: 827px;
+  height: 339px;
+  background: #000;
+  position: absolute;
+}
+.css-slideshow-a img{
+  box-shadow: 0 0 2px #666;
+}
+.slider-caption {
+font-size:14px}
+.css-slideshow-a figcaption{
+  position: absolute;
+  top: 272px;
+  color: #252b6a;
+  background: rgba(0,0,0, .3);
+  font-size: 14px;
+  padding: 8px 12px;
+  transition: opacity .5s;
+  min-width:803px
+}
+.css-slideshow-a{
+  opacity:0;
+}
+.alignnone size-large wp-image-178{
+  opacity:1;
+}
+.css-slideshow-a:nth-child(6) {
+  animation: xfade 36s 30s infinite;
+}
+.css-slideshow-a:nth-child(5) {
+  animation: xfade 36s 24s infinite;
+}
+.css-slideshow-a:nth-child(4) {
+  animation: xfade 36s 18s infinite;
+}
+.css-slideshow-a:nth-child(3) {
+  animation: xfade 36s 12s infinite;
+}
+.css-slideshow-a:nth-child(2) {
+  animation: xfade 36s 6s infinite;
+}
+.css-slideshow-a:nth-child(1) {
+  animation: xfade 36s 0s infinite;
+}
+
+@keyframes xfade{
+  0%{
+    opacity: 1;
+  }
+  10.5% {
+    opacity: 1;
+  }
+  20%{
+    opacity: 0;
+  }
+  98% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+
+
 #ducati_logo{width:30px; max-width:30px}
 #left_nav > div:nth-child(10) > ul > li:nth-child(2) > img{padding:0 0 0 15px }
 
@@ -321,6 +403,7 @@ Body {
   width: 547px
 }
 
+.slider-caption,
 #caption,
 #company_logo,
 #content_area,
